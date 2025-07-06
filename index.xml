@@ -1,11 +1,11 @@
 <?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>crazyx.blog</title>
     <link>https://ajdx3906.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on crazyx.blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <lastBuildDate>Sun, 06 Jul 2025 22:06:35 +0800</lastBuildDate>
     
         <atom:link href="https://ajdx3906.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,12 +13,19 @@
     
     
         <item>
-        <title>Test</title>
-        <link>https://ajdx3906.github.io/posts/test/</link>
+        <title>博客初始化</title>
+        <link>https://ajdx3906.github.io/posts/hello/</link>
         <pubDate>Sun, 06 Jul 2025 22:06:35 +0800</pubDate>
         
-        <guid>https://ajdx3906.github.io/posts/test/</guid>
-        <description>My New Hugo Site https://ajdx3906.github.io/posts/test/ -- https://ajdx3906.github.io/posts/test/ - </description>
+        <guid>https://ajdx3906.github.io/posts/hello/</guid>
+        <description>crazyx.blog https://ajdx3906.github.io/posts/hello/ -&lt;h2 id=&#34;init&#34;&gt;Init&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;package&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello Beautiful World! This is crazyx&amp;#39;s blog.&amp;#34;&lt;/span&gt;) 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这个博客主要基于本人的日常生活学习的内容，技术方面近期倾向于做基于 LLM 的安全自动化工具的开发。&lt;/p&gt;
+- https://ajdx3906.github.io/posts/hello/ - </description>
         </item>
     
     
