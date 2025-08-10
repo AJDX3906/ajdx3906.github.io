@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>大模型安全 on crazyx.blog</title>
-    <link>http://localhost:1313/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%89%E5%85%A8/</link>
+    <link>https://ajdx3906.github.io/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%89%E5%85%A8/</link>
     <description>Recent content in 大模型安全 on crazyx.blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 10 Aug 2025 11:44:04 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ajdx3906.github.io/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>大模型应用攻防简述</title>
-      <link>http://localhost:1313/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%94%BB%E9%98%B2/</link>
+      <link>https://ajdx3906.github.io/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%94%BB%E9%98%B2/</link>
       <pubDate>Sun, 10 Aug 2025 11:44:04 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%94%BB%E9%98%B2/</guid>
+      <guid>https://ajdx3906.github.io/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%94%BB%E9%98%B2/</guid>
       <description>&lt;h1 id=&#34;大模型攻防&#34;&gt;大模型攻防&lt;/h1&gt;&#xA;&lt;p&gt;最近测了一些大模型应用，也看了一些大模型攻防的资料和比赛，发现了一些有意思的点，记录一下。&lt;/p&gt;&#xA;&lt;h2 id=&#34;todo&#34;&gt;todo&lt;/h2&gt;</description>
     </item>
   </channel>
