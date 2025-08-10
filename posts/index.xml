@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on crazyx.blog</title>
-    <link>https://ajdx3906.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on crazyx.blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 06 Jul 2025 22:06:35 +0800</lastBuildDate>
-    <atom:link href="https://ajdx3906.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Aug 2025 11:44:04 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大模型应用攻防简述</title>
+      <link>http://localhost:1313/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%94%BB%E9%98%B2/</link>
+      <pubDate>Sun, 10 Aug 2025 11:44:04 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%94%BB%E9%98%B2/</guid>
+      <description>&lt;h1 id=&#34;大模型攻防&#34;&gt;大模型攻防&lt;/h1&gt;&#xA;&lt;p&gt;最近测了一些大模型应用，也看了一些大模型攻防的资料和比赛，发现了一些有意思的点，记录一下。&lt;/p&gt;&#xA;&lt;h2 id=&#34;todo&#34;&gt;todo&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Mumu 模拟器安卓12抓包教程</title>
+      <link>http://localhost:1313/posts/mumu/</link>
+      <pubDate>Sun, 10 Aug 2025 11:38:56 +0800</pubDate>
+      <guid>http://localhost:1313/posts/mumu/</guid>
+      <description>&lt;h1 id=&#34;mumu-模拟器抓包&#34;&gt;mumu 模拟器抓包&lt;/h1&gt;&#xA;&lt;p&gt;有一个安卓应用抓包的需求，但是没有真机，所以需要使用模拟器。&lt;/p&gt;&#xA;&lt;p&gt;试了夜神模拟器和 mumu模拟器, 最终选择了 mumu模拟器，因为操作更简单，并且支持安卓12。&lt;/p&gt;&#xA;&lt;p&gt;以下所有内容均提供原始安装包便于复现，当然也可以从官方链接下载（时间久了可能会失效，教程类博客总是遇到这种问题）。&lt;/p&gt;&#xA;&lt;h2 id=&#34;安装&#34;&gt;安装&lt;/h2&gt;&#xA;&lt;p&gt;todo.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>博客初始化</title>
-      <link>https://ajdx3906.github.io/posts/hello/</link>
+      <link>http://localhost:1313/posts/hello/</link>
       <pubDate>Sun, 06 Jul 2025 22:06:35 +0800</pubDate>
-      <guid>https://ajdx3906.github.io/posts/hello/</guid>
+      <guid>http://localhost:1313/posts/hello/</guid>
       <description>&lt;h2 id=&#34;init&#34;&gt;Init&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;package&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#x9;&lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello Beautiful World! This is crazyx&amp;#39;s blog.&amp;#34;&lt;/span&gt;) &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这个博客主要基于本人的日常生活学习的内容，技术方面近期倾向于做基于 LLM 的安全自动化工具的开发。&lt;/p&gt;</description>
     </item>
   </channel>
